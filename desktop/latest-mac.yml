@@ -1,0 +1,11 @@
+version: 0.2.0
+files:
+  - url: https://github.com/cerealmilk-sh/cerealmilk/releases/download/v0.2.0/Cereal%20Milk-0.2.0-arm64-mac.zip
+    sha512: UOMji22fZ/zBPbCWiympeBqvohkuoUDs4qn7yhn9q9w5t5xpIsXVypDksIUv0MuPSIrBzTxjU5YmzckYWBHB/A==
+    size: 123292858
+  - url: https://github.com/cerealmilk-sh/cerealmilk/releases/download/v0.2.0/Cereal%20Milk-0.2.0-arm64.dmg
+    sha512: AzjWs5VHTxViL3SH5w3+Yp2WB8oPdHX9rhEgVSb+8SkNSRhtLkv8e84OEzI+hLHcK1lOfDE78hRTsJNW/p30QA==
+    size: 123700949
+path: https://github.com/cerealmilk-sh/cerealmilk/releases/download/v0.2.0/Cereal%20Milk-0.2.0-arm64-mac.zip
+sha512: UOMji22fZ/zBPbCWiympeBqvohkuoUDs4qn7yhn9q9w5t5xpIsXVypDksIUv0MuPSIrBzTxjU5YmzckYWBHB/A==
+releaseDate: '2026-07-25T05:32:46.879Z'
