@@ -1,8 +1,8 @@
-version: 0.2.10
+version: 0.2.11
 files:
-  - url: https://github.com/cerealmilk-sh/product-releases/releases/download/v0.2.10/CerealMilk-Setup-0.2.10.exe
-    sha512: HKtLQfTBVlkMwq2mVmqnw/9ViBubbFKa9P/E+R6u9OKO/sL6sYFrsN7DfeIt8w/nzWSuzoujALXo43xp6GOBvA==
-    size: 105687940
-path: https://github.com/cerealmilk-sh/product-releases/releases/download/v0.2.10/CerealMilk-Setup-0.2.10.exe
-sha512: HKtLQfTBVlkMwq2mVmqnw/9ViBubbFKa9P/E+R6u9OKO/sL6sYFrsN7DfeIt8w/nzWSuzoujALXo43xp6GOBvA==
-releaseDate: '2026-07-28T21:49:23.575Z'
+  - url: https://github.com/cerealmilk-sh/product-releases/releases/download/v0.2.11/CerealMilk-Setup-0.2.11.exe
+    sha512: y0bLvVDZvCZkhtZ1MOvJwIZJO8/TTjMcpZ05FWrqhLGHELminDt4GGgdPwkJVo3uaeSc1aln8rClYbFaVyBCdg==
+    size: 105889420
+path: https://github.com/cerealmilk-sh/product-releases/releases/download/v0.2.11/CerealMilk-Setup-0.2.11.exe
+sha512: y0bLvVDZvCZkhtZ1MOvJwIZJO8/TTjMcpZ05FWrqhLGHELminDt4GGgdPwkJVo3uaeSc1aln8rClYbFaVyBCdg==
+releaseDate: '2026-07-28T23:05:55.244Z'
